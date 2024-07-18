@@ -1,0 +1,12 @@
+spring:
+  config:
+    activate:
+      om-profile: "prod"
+support:
+  message : "Bienvenidos al sistema bancario de accenture en Producción"
+  contactInfo:
+    name: "Sebastián Hoyos"
+    email: "produccion@gmail.com"
+  phoneNumbers:
+    - (57) 3003003003030
+    - (57) 3003003003030

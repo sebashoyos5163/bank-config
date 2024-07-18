@@ -1,0 +1,12 @@
+spring:
+  config:
+    activate:
+      om-profile: "qua"
+support:
+  message : "Bienvenidos al sistema bancario (Customers) de accenture en Calidad"
+  contactInfo:
+    name: "Sebastián Hoyos"
+    email: "calidad@gmail.com"
+  phoneNumbers:
+    - (57) 3003003003030
+    - (57) 3003003003030

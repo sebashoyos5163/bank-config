@@ -3,7 +3,7 @@ spring:
     activate:
       om-profile: "prod"
 support:
-  message : "Bienvenidos al sistema bancario (Customers) de accenture en Producción | RabbitMQ"
+  message : "Bienvenidos al sistema bancario (Customers) de accenture en Producción | RabbitMQ | MODIFICADO"
   contactInfo:
     name: "Sebastián Hoyos"
     email: "produccion@gmail.com"
